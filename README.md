@@ -60,10 +60,10 @@ We are a team of developers creating innovative solutions in technology. Our goa
 
 ---
 
-### 🎉 Fun Facts:
-- I use Linux as my primary OS 🐧.
-- Passionate about open-source projects and community contributions 🌱.
-- Enthusiast in machine learning and artificial intelligence 🧠.
+### 🔮 Facts:
+- I use Windows as my primary OS.
+- Passionate about open-source projects and community contributions.
+- Enthusiast in IoT technologies and web/backend development.
 
 ---
 
