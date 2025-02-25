@@ -2,36 +2,29 @@
 
 ### 🚀 Welcome to my GitHub Profile
 ```bash
-echo -e "\e[38;5;75m┌──────────────────────────────────────────────────────────────────────────────┐\e[0m"
-echo -e "\e[38;5;75m│\e[0m                      \e[1;96mxNoBanOnlyZXC - Software Engineer\e[0m                        \e[38;5;75m│\e[0m"
-echo -e "\e[38;5;75m│\e[0m                 \e[38;5;208mPython | C++ | Web Development | AI APIs\e[0m                  \e[38;5;75m│\e[0m"
-echo -e "\e[38;5;75m└──────────────────────────────────────────────────────────────────────────────┘\e[0m"
+echo -e "┌──────────────────────────────────────────────────────────────────────────────┐"
+echo -e "                        ~$ sudo - Software Engineer                             "
+echo -e "                  Python | C++ | Web Development | AI APIs                      "
+echo -e "└──────────────────────────────────────────────────────────────────────────────┘"
 ```
 
 ---
 
 ### 💻 Technologies I Work With:
-<p align="center">
+<p>
   <!-- Python Icon -->
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  
   <!-- C++ Icon -->
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  
   <!-- HTML5 Icon -->
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  
   <!-- CSS3 Icon -->
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  
   <!-- JavaScript Icon -->
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  
   <!-- ESP32 Icon -->
-  <a href="https://espressif.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/espressif_icon_169774.png" alt="ESP32" width="40" height="40"/></a>
+  <a href="https://espressif.com/" target="_blank"><img src="https://joy-it.net/files/files/Produkte/SBC-NodeMCU-ESP32/SBC-NodeMCU-ESP32-01.png" alt="ESP32" width="40" height="40"/></a>
   
-  <!-- IoT Icon -->
-  <a href="https://icons8.com/icon/1447/iot" target="_blank"><img src="https://img.icons8.com/color/48/iot.png" alt="IoT" width="40" height="40"/></a>
 </p>
 
 ---
