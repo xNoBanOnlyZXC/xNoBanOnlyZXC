@@ -8,7 +8,6 @@ echo -e "                        ~$ sudo - Software Engineer                    
 echo -e "                  Python | C++ | Web Development | AI APIs                      "
 echo -e "└──────────────────────────────────────────────────────────────────────────────┘"
 ```
-![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat-square)
 ---
 
 ### 💻 Known languages
